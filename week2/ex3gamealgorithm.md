@@ -20,6 +20,6 @@ input-->|Yes|2[/level = level + 1/]
 3-->5[current_xp = 0]
 input-->|NO|output[/แสดง level and current_xp/]
 5-->output
-
+ 
 --> End([End])
 ```
